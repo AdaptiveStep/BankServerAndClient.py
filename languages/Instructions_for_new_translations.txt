@@ -1,0 +1,3 @@
+To create a new translation:
+simply translate all the lines according to the template. 
+Then just add a new language in the language folder.
