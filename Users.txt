@@ -1,0 +1,7 @@
+33##ingvar kamprad##88##1050.0##client
+11##johan petterson##23##3532##client
+10##erik kamprad##87##5590.0##admin
+5##mange schmidt##glass##5002501.0##admin
+007##knapripe karl##pass##43525##client
+123##Alfred Tjockis##66##43525##Monkey
+50##Alfred Tjockis##do##43525##Monkey

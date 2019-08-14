@@ -1,0 +1,27 @@
+Protocol: After connecting to server communication is done via sending raw bytes.
+These bytes are simply byte representation of strings encoded in UTF8.
+OBS! Don't forget to convert into a sequence of bytes before sending!
+
+Messages that client can send to server :
+D1 : "deposit"
+W1 : "withdraw"
+C1 : "change password"
+S1 : "See cash"
+CL : "Change language"
+LI : "login"
+LO : "logout"
+SC : "See Cash"
+LB : "loadbanner"
+
+
+--------------------------------------
+Messages that server sends to client:
+
+HM : "howmuch"
+OK : "confirmation"
+DE : "Denied"
+2M : "Too Much!"
+2W : "To what?"
+WT : "wrongticket"
+
+--------------------------------------
